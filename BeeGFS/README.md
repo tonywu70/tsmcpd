@@ -25,11 +25,11 @@ You have to provide these parameters to the template :
 * _SSH Key Data_ : The public SSH key to associate with the administrator user. Format has to be on a single line 'ssh-rsa key'
 
 ## Deploy BeeGFS Master(SSD)
-[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Fpfstest%2Fmaster%2FBeeGFS%2Fbeegfs-master.json)  
+[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Ftsmcpd%2Fmaster%2FBeeGFS%2Fbeegfs-master.json)  
 
 
 ## Deploy BeeGFS Master(HDD)
-[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Fpfstest%2Fmaster%2FBeeGFS%2Fbeegfs-master-hdd.json)  
+[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Ftsmcpd%2Fmaster%2FBeeGFS%2Fbeegfs-master-hdd.json)  
 
 
 ## Deploy BeeGFS OSS, MDS and Client
@@ -53,11 +53,11 @@ You have to provide these parameters to the template :
 * _Master Name_ : Enter the name of managment node.
 
 ## Deploy BeeGFS OSS, MDS and Client
-[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Fpfstest%2Fmaster%2FBeeGFS%2Fdeploy-beegfs.json)  
+[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Ftsmcpdt%2Fmaster%2FBeeGFS%2Fdeploy-beegfs.json)  
 
 
 ## Deploy BeeGFS OSS, MDS and Client(HDD)
-[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Fpfstest%2Fmaster%2FBeeGFS%2Fdeploy-beegfs-hdd.json)  
+[![Click to deploy template on Azure](http://azuredeploy.net/deploybutton.png "Click to deploy template on Azure")](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Ftonywu70%2Ftsmcpd%2Fmaster%2FBeeGFS%2Fdeploy-beegfs-hdd.json)  
 
 ## Deploy Using Azure Cli
 
