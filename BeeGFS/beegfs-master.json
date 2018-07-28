@@ -157,7 +157,6 @@
       "name": "[parameters('vmssName')]",
       "location": "[variables('location')]",
       "apiVersion": "[variables('computeApiVersion')]",
-     ],
       "sku": {
         "name": "[variables('beeGFSNodeSettings').VMsku]",
         "tier": "Standard",
